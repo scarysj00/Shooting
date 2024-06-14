@@ -11,7 +11,8 @@
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_Player.uasset",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Level/PlayerMap.umap",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_ShootingGameModeBase.uasset",
-				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_Bullet.uasset"
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_Bullet.uasset",
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Sound/FireSound.uasset"
 			]
 		}
 	]
