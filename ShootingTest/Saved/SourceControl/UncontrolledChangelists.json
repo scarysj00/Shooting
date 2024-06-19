@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"S:/PolytechGM/TestShooting/ShootingTest/Content/Level/PlayerMap.umap",
-				"S:/PolytechGM/TestShooting/ShootingTest/Content/Blueprint/BP_Enemy.uasset",
-				"S:/PolytechGM/TestShooting/ShootingTest/Content/Blueprint/BP_Player.uasset",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Level/MainLevel.umap",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_GameModeBase.uasset",
@@ -15,7 +12,13 @@
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Level/PlayerMap.umap",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_ShootingGameModeBase.uasset",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_Bullet.uasset",
-				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Sound/FireSound.uasset"
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Sound/FireSound.uasset",
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_EnemyFactory.uasset",
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_Enemy.uasset",
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_KillZone.uasset",
+				"S:/PolytechGM/TestShooting/ShootingTest/Content/Level/PlayerMap.umap",
+				"S:/PolytechGM/TestShooting/ShootingTest/Content/Blueprint/BP_Enemy.uasset",
+				"S:/PolytechGM/TestShooting/ShootingTest/Content/Blueprint/BP_Player.uasset"
 			]
 		}
 	]
