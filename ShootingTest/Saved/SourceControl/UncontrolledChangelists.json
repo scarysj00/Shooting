@@ -42,6 +42,8 @@
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Resource/Spaceship_Player/spaaaceship_fbx_window_cage_grey_Normal.uasset",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Resource/Spaceship_Player/spaaaceship_fbx_window_cage_grey_Roughness.uasset",
 				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/WBP_PlayerHP.uasset",
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/WBP_Score.uasset",
+				"D:/SJ_UE5_Work/ShootingGame/ShootingTest/Content/Blueprint/BP_SaveGame.uasset",
 				"S:/PolytechGM/TestShooting/ShootingTest/Content/Level/PlayerMap.umap",
 				"S:/PolytechGM/TestShooting/ShootingTest/Content/Blueprint/BP_Enemy.uasset",
 				"S:/PolytechGM/TestShooting/ShootingTest/Content/Blueprint/BP_Player.uasset",
